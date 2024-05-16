@@ -48,6 +48,7 @@ RegisterNumber:2305002008
 
 ## Output:
 ![IMG-20240513-WA0010](https://github.com/gowxz/LU-Decomposition/assets/155504997/b9089a6f-a1ce-4b93-8fea-5dc75979e036)
+
 ![IMG-20240513-WA0012](https://github.com/gowxz/LU-Decomposition/assets/155504997/d048de1a-d873-447e-bb3e-6241213c4dcb)
 
 ## Result:
