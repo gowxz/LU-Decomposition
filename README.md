@@ -15,12 +15,13 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
-```
+```python
+
 Program to find the L and U matrix.
 Developed by:Gowtham S
 RegisterNumber:2305002008
 ```
-```
+```python
  # To print L and U matrix
  import numpy as np
  from scipy.linalg import lu
